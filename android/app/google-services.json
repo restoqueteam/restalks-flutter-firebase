@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "609074796075",
+    "firebase_url": "https://restalksflutterfirebase.firebaseio.com",
+    "project_id": "restalksflutterfirebase",
+    "storage_bucket": "restalksflutterfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609074796075:android:0dd1075033c12e33d8fc6e",
+        "android_client_info": {
+          "package_name": "restalks.flutter.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609074796075-45reh1ecbd1u7h13moll98c9ik0kfr35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOrKk1AgIBAsOaelNmaIFXgm26R2mmChQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609074796075-45reh1ecbd1u7h13moll98c9ik0kfr35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
