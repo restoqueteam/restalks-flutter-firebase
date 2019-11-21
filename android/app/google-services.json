@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:609074796075:android:bb404a5948f56e25d8fc6e",
+        "mobilesdk_app_id": "1:609074796075:android:62959537ce9cef67d8fc6e",
         "android_client_info": {
-          "package_name": "restalks.flutter.firebase"
+          "package_name": "com.example.restalksflutterfirebase"
         }
       },
       "oauth_client": [
@@ -30,6 +30,13 @@
             {
               "client_id": "609074796075-45reh1ecbd1u7h13moll98c9ik0kfr35.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "609074796075-l9lm5tjq2rnu7s8220t7qbu125nb0ia7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restalksflutterfirebase"
+              }
             }
           ]
         }

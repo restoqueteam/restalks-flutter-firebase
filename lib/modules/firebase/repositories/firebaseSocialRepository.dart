@@ -10,7 +10,7 @@ class FirebaseSocialRepository {
     return await _provider.getPersonsAsync();
   }
 
-  ResponseDefaultModel newPost(PersonModel model) {
+  ResponseDefaultModel newPerson(PersonModel model) {
     return _provider.newPerson(model);
   }
 }
