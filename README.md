@@ -2,8 +2,6 @@
 
 A Flutter project example with firebase integration.
 
-[link](https://github.com/Solido/awesome-flutter){:target="_blank"}
-
 ## Repositories References
 https://github.com/Solido/awesome-flutter
 
