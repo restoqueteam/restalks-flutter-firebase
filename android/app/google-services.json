@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:609074796075:android:0dd1075033c12e33d8fc6e",
+        "mobilesdk_app_id": "1:609074796075:android:bb404a5948f56e25d8fc6e",
         "android_client_info": {
           "package_name": "restalks.flutter.firebase"
         }
