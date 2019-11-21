@@ -2,7 +2,7 @@
 
 A Flutter project example with firebase integration.
 
-## Repositories References
+## References
 https://github.com/Solido/awesome-flutter
 
 https://github.com/leisim/awesome-flutter-packages
