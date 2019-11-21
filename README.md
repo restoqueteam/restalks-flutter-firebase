@@ -1,8 +1,10 @@
-# restalksflutterfirebase
+# Restalks Flutter Firebase
 
-A new Flutter project.
+A Flutter project example with firebase integration.
 
-## Getting Started
+## Firebase Plugins
+
+https://github.com/FirebaseExtended/flutterfire
 
 This project is a starting point for a Flutter application.
 
